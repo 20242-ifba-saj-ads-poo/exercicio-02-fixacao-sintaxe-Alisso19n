@@ -6,6 +6,6 @@ public class Questao4 {
                 Fatorial *= j;
                 System.out.println("fatorial de " + i + "e" + Fatorial);
             }
-        
+        }
     }
 }
